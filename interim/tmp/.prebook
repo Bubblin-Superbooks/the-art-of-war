@@ -4,10 +4,6 @@
     "innerHtml": "Translated from the Chinese By LIONEL GILES, M.A. (1910)"
   },
   {
-    "tag": "p",
-    "innerHtml": "[This is the basic text of Sun Tzu on the Art of War. It was extracted from Mr. Giles' complete work as titled above.]"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
@@ -129,7 +125,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". Waging War"
+    "innerHtml": "Waging War"
   },
   {
     "tag": "p",
@@ -217,7 +213,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". Attack By Stratagem"
+    "innerHtml": "Attack By Stratagem"
   },
   {
     "tag": "p",
@@ -301,7 +297,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". Tactical Dispositions"
+    "innerHtml": "Tactical Dispositions"
   },
   {
     "tag": "p",
@@ -389,7 +385,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". Energy"
+    "innerHtml": "Energy"
   },
   {
     "tag": "p",
@@ -493,7 +489,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". Weak Points And Strong"
+    "innerHtml": "Weak Points And Strong"
   },
   {
     "tag": "p",
@@ -641,7 +637,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". Maneuvering"
+    "innerHtml": "Maneuvering"
   },
   {
     "tag": "p",
@@ -801,7 +797,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". Variation In Tactics"
+    "innerHtml": "Variation In Tactics"
   },
   {
     "tag": "p",
@@ -869,7 +865,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". The Army On The March"
+    "innerHtml": "The Army On The March"
   },
   {
     "tag": "p",
@@ -1061,7 +1057,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". Terrain"
+    "innerHtml": "Terrain"
   },
   {
     "tag": "p",
@@ -1197,7 +1193,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". The Nine Situations"
+    "innerHtml": "The Nine Situations"
   },
   {
     "tag": "p",
@@ -1481,7 +1477,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". The Attack By Fire"
+    "innerHtml": "The Attack By Fire"
   },
   {
     "tag": "p",
@@ -1581,7 +1577,7 @@
   },
   {
     "tag": "h3",
-    "innerHtml": ". The Use Of Spies"
+    "innerHtml": "The Use Of Spies"
   },
   {
     "tag": "p",

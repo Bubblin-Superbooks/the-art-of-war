@@ -68,21 +68,6 @@ p {
   margin: 0 0 0 0;
 }
 
-p.start-chapter {
-  text-indent: 0;
-  margin:  0 0 0;
-  margin: calc( 3 * 4 * (150vh *(1115/1443))/100 * 7/5) auto 0;
-}
-
-p.start-chapter:first-letter {
-  display: inline-block;
-  margin: 0 1vw 0 0;
-  float: left;
-  font-size: calc( 3 * 4vw ); /* three times normal size */
-  line-height: calc(2 * 4vw * 1.50 * 0.95);
-  font-family: 'Berkshire Swash', cursive;
-  /* background: yellow; */     /* Test what looks good on your book */
-}
 
 
 blockquote {
